@@ -206,7 +206,7 @@
               loaded: this.state.loaded,
               google: window.google
             });
-
+            return _react2.default.createElement(WrappedComponent, props);
             return _react2.default.createElement(
               'div',
               null,
